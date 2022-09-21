@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"R1, R2",2,"290 Ω Resistor"
+"D1",1,"Blue LED"
+"U1",1," Arduino Uno R3"
+"PIEZO1",1," Piezo"
+"U2",1," Temperature Sensor [TMP36]"
+"GAS1",1," Gas Sensor"
+"D2",1,"White LED"
+"R3",1,"1 kΩ Resistor"
